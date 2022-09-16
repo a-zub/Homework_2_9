@@ -1,3 +1,7 @@
+// Homework 2.9
+// @ Aleksandar Zubanov
+// 2022/09
+
 package pro.sky.homework_2_9.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
